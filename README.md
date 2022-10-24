@@ -10,13 +10,13 @@
 5. [Comet.ml](https://comet_ml.com)
 
 
-# Create a new enviroment
+## Create a new enviroment
 
 ```
 conda create -p venv python==3.7 -y
 ```
 
-# Download the required libraries
+## Download the required libraries
 
 ```
 pip install -r requirements.txt
