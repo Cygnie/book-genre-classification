@@ -1,0 +1,10 @@
+fantasy
+science
+crime
+history
+horror
+thriller
+psychology
+romance
+sports
+travel
