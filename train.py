@@ -2,13 +2,11 @@ import comet_ml
 
 experiment = comet_ml.Experiment(
 
-api_key="2z3n08znlfh0ROTlOmAzjzzFg",
-project_name="book_genre",
-workspace="cygnie",
+api_key="<YOUR APİ KEY>",
+project_name="<YOUR PROJECT NAME>",
+workspace="<YOUR WORKSPACE>",
 )
-experiment.set_name("train distilbert model without freezing")
-
-
+experiment.set_name("<YOUR EXPERIMENT NAME>")
 
 import argparse
 import datetime
