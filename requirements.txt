@@ -7,3 +7,4 @@ matplotlib
 tensorflow
 comet_ml
 datasets
+gunicorn
