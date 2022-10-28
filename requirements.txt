@@ -2,9 +2,8 @@ transformers
 sklearn
 pandas
 numpy
-Flask
 matplotlib
 tensorflow
 comet_ml
 datasets
-gunicorn
+streamlit
