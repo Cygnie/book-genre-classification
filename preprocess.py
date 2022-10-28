@@ -14,7 +14,7 @@ def parse_args():
     
     parser.add_argument('--train_data_path', 
                         type=str, 
-                        default="data.csv")
+                        default="dataset/data.csv")
     
     parser.add_argument('--train_test_split', 
                         type=float, 
