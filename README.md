@@ -48,5 +48,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+### Note: I chose to use the [Comet.ml](https://comet_ml.com) tool in the project. You can also use it if you want to follow the experiment while running train.py. You can easily follow your experiments by editing the necessary lines.
+
 # Author
 * [Furkan CEYRAN](https://github.com/Cygnie)
