@@ -3,7 +3,7 @@
 
 The main aim here is to predict the genre of the book based on the synopsis of the book.
 
-You can also find the same project as a [Colab notebook]() on this link.
+You can also find the same project as a [Colab notebook](https://github.com/Cygnie/notebooks/tree/main/Book-Genre-Notebook) on this link.
 
 ### Software and Tools Requirements
 
